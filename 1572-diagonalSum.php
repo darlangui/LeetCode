@@ -9,7 +9,7 @@ that are not part of the primary diagonal.
 
 /**
  * @param Integer[][] $matrix
- * @return Integer
+ * @return array
  */
 function diagonalSum($matrix) {
     $rows =  count($matrix);
