@@ -1,3 +1,8 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
   int dfs(int i , int j ,vector<int>& nums , int turn){
